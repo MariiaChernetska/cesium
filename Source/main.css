@@ -1,0 +1,9 @@
+.switcher{
+    background-color: rgba(0,0,0,0.5);
+    color: #fff;
+    padding: 6px 12px;
+    position: absolute;
+    z-index: 9999;
+    left:0;
+   
+}
